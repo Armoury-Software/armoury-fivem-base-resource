@@ -8,5 +8,8 @@
   "scripts": {},
   "dependencies": {
     "@armoury/fivem-framework-server": "^1.0.15"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.11"
   }
 }
