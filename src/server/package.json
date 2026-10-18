@@ -7,9 +7,6 @@
   "type": "commonjs",
   "scripts": {},
   "dependencies": {
-    "@armoury/fivem-framework-server": "^1.0.15"
-  },
-  "devDependencies": {
-    "drizzle-kit": "^0.31.11"
+    "@armoury/fivem-framework-server": "^1.0.30"
   }
 }
